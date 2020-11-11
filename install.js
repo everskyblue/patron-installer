@@ -11,7 +11,7 @@ version(function (versions) {
 
     download(`direct:https://github.com/everskyblue/patronjs/archive/${lasted.name}.tar.gz`, resolve(name_dir), function (err) {
         console.log(err ? 'an error occurred in the installation process\n' : 'installed!\n')
-        console.error(error);
+        console.error(err);
         exec(name_dir);
     })
 })
