@@ -15,7 +15,12 @@
   "keywords": [
     "jspatron",
     "patronjs",
-    "patron-install"
+    "patron-install",
+    "framework",
+    "spa",
+    "patron",
+    "router",
+    "route"
   ],
   "author": "Nike Madrid",
   "license": "MIT"

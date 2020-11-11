@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const version = require("./version");
 const exec = require("./exec");
 const path = require('path');
